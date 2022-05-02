@@ -1,5 +1,4 @@
 # Underlined Text Field
-
 A Simple Example for Underlined Text Field
 
 ![Underlined Text Field](https://github.com/bilkeonur/UnderlinedTextField/blob/main/Screens/screen1.png)
